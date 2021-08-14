@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 ## I'm Joseph Duron Jr.
 
-insert intro stuff
+<!-- insert intro stuff -->
 
-<p align="center">
+<!-- <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zenthiccc&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=zenthiccc&theme=tokyonight" />
-</p>
+</p> -->
